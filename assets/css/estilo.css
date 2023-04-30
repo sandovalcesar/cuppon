@@ -47,7 +47,7 @@ header {
     font-family: 'Roboto', sans-serif;
     width: 278px;
     height: 199;
-    margin-top: 1rem;
+    margin-top: 30px;
     margin-left: 21px;
     font-weight: lighter;
     font-size: 20px
@@ -59,4 +59,39 @@ hr {
     margin-left: 50%;
     width: 90%;
     margin-top: -12px
+}
+
+.caja2 {
+   margin-bottom: 47px;
+}
+
+.formulario{
+    margin-top: 4em;
+    background: #28A745;
+    height: 241px;
+}
+
+.txtform1{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: revert;
+    font-size: 21px;
+    padding-top: 25px;
+
+}
+
+.txtform2{
+    font-family: 'Roboto';, sans-serif;!important;
+    color: #707070!important;
+    font-weight: 100!important;
+    font-size: 16px!important;
+    /*padding-top: 25px;*/
+    /*padding-bottom: 15px;*/
+}
+
+.btn{
+    opacity: 100%!important;
+    background-color: #FFFFFF!important;
+    color: black!important;
 }
